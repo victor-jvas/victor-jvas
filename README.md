@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @victor-jvas
-- 👀 I’m interested in Game Development and Test Automation
-- 🌱 I’m currently dabbling in Unreal Engine 4 and Unity
+## Hey you! Welcome ✨
 
-<!---
-victor-jvas/victor-jvas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 👋 Hi, I’m @victor-jvas
+- 🎈 Computer Cientist, Dev, Curious
+- 👀 I’m interested in all sorts of progamming languages, game development and test automation
+- 🌱 Right now i'm dabbling with C# and ReactJS
+
+<a href=https://www.linkedin.com/in/joaovictoras/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</>
+<a href=mailto:victor.jvas1@gmail.com>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</>
+  <a href="https://discord.com/users/210200638485692416"/>
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</>
+
+
+### Some Stats (because everyone loves them)
+--------------------------------------------------------
+
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-jvas&hide=contribs,stars&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/victor-jvas/github-readme-stats)
