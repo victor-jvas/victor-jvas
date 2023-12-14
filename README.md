@@ -22,8 +22,3 @@
 
 
 <br />
-
-### Some Stats (because who doesn't love stats)
---------------------------------------------------------
-
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-jvas&hide=contribs,stars&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/victor-jvas/github-readme-stats)
