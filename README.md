@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @victor-jvas
 - 🎈 Computer Scientist, Dev, Curious
 - 👀 I’m interested in all sorts of progamming languages, game development and test automation
-- 🌱 Right now i'm dabbling with C# and ReactJS
+- 🌱 Right now i'm dabbling with C# and Go
 
 
 <br />
